@@ -1,0 +1,2 @@
+- 2025-12-23: Docker and SQL Server have been set up, and it is possible to connect using Azure Data Studio.
+- Bronze layer: The goal is to import the CSV file directly into the database.
